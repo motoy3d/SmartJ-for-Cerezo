@@ -11,6 +11,7 @@ exports.config = {
     ,mainTextColor: 'white'
     ,color: '#e72b8c'
     ,tintColor: 'white'
+    ,buttonBarColor: '#e72b8c' 
     ,standingsBgcolor: '#e72b8c'
     ,standingsTeamFontColor: 'white'
     ,resultsDetailBtnBgColorActive: '#333'
